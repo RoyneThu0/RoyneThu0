@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/royne-thuo-245178253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://icodethis.com/Royne"><img src="https://img.shields.io/badge/iCodeThis-6C47FF?style=for-the-badge&logo=codepen&logoColor=white" alt="iCodeThis"/></a>
-  <a href="mailto:royne.thuo@revolution-analytics.co.ke"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:royne.thuo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=RoyneThu0&style=for-the-badge&color=36BCF7" alt="Profile views"/>
 </p>
 
