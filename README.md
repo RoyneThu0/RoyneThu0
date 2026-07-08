@@ -17,12 +17,11 @@
 
 ### 🎨 About me
 
-- 💻 Frontend developer & UI/UX designer — I live where **clean code meets clean design**.
+- 💻 Frontend developer & Software Architect — I live where **clean code meets clean design**.
 - ✨ I care about the details: spacing, motion, accessibility, and interactions that feel *right*.
-- 🧩 Big on **design systems** and reusable components — consistency that scales.
+- 🧩 Big on **design systems** and reusable components; consistency that scales.
 - 🧊 Bringing interfaces to life with **3D on the web** using Spline.
 - 🔄 I move fluidly between **Figma and the codebase**, so nothing gets lost in handoff.
-- 🌍 Based in Kenya 🇰🇪, building delightful products for the web.
 - 🏆 Daily UI challenges over on [iCodeThis](https://icodethis.com/Royne).
 
 ---
@@ -53,8 +52,6 @@
 </p>
 
 ---
-
-### 🐍 Watch the snake eat my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyneThu0/RoyneThu0/output/github-contribution-grid-snake-dark.svg" />
