@@ -17,7 +17,7 @@
 
 ### 🎨 About me
 
-- 💻 Frontend developer & Software Architect — I live where **clean code meets clean design**.
+- 💻 Frontend developer & Software Architect. I live where **clean code meets clean design**.
 - ✨ I care about the details: spacing, motion, accessibility, and interactions that feel *right*.
 - 🧩 Big on **design systems** and reusable components; consistency that scales.
 - 🧊 Bringing interfaces to life with **3D on the web** using Spline.
