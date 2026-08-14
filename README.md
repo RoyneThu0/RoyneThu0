@@ -29,7 +29,7 @@
 ### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,tailwind,html,css,figma,git,github&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,tailwind,html,css,figma,webflow,git,github&perline=11" alt="Tech stack icons" />
 </p>
 
 <p align="center">
